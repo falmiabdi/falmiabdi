@@ -5,7 +5,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/falmiabdi/my-image/blob/main/About%20me%20.png" alt="Banner Image" width="400" height="400">
+  <img src="https://github.com/falmiabdi/my-image/blob/main/About%20me%20.png" alt="Banner Image" width="200" height="200">
 </p>
 
 <h1 align="center" style="color: white;">Hi there, I'm Falmi Tesfaye 👋</h1>
