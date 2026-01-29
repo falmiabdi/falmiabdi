@@ -1,8 +1,8 @@
-<!-- Complete GitHub Profile README with Analytics -->
+<!-- Complete GitHub Profile README -->
 <div align="center">
 
 <!-- Profile Header -->
-<img src="https://github.com/falmiabdi/my-image/generated-image (14).png" 
+<img src="https://raw.githubusercontent.com/falmiabdi/my-image/main/generated-image%20(14).png" 
      alt="Falmi Tesfaye"
      width="200"
      height="200"
@@ -20,11 +20,6 @@
   <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-orange?style=flat-square" alt="Developer">
 </p>
 
-<!-- Typing Text Effect (Static) -->
-<p style="color: #ffffff; font-size: 1.2rem; height: 30px;">
-  🎓 Final Year Software Engineering Student
-</p>
-
 <!-- Portfolio Link -->
 <p>
   <a href="https://eng-falmi-abdi-portfolio-2580.vercel.app" target="_blank">
@@ -32,28 +27,49 @@
   </a>
 </p>
 
----
+<hr>
 
 ## 📊 GitHub Analytics
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=falmiabdi&show_icons=true&theme=dark&bg_color=0f0f23&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff88&hide_border=false)
+<div align="center">
 
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=falmiabdi&theme=dark&background=0f0f23&border=00ff88&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+### 🔗 Connect with My GitHub Journey
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falmiabdi&layout=compact&theme=dark&bg_color=0f0f23&title_color=00ff88&text_color=ffffff&border_color=00ff88&hide_border=false)
+<a href="https://github.com/falmiabdi" target="_blank">
+  <img src="https://img.shields.io/badge/👨‍💻_Visit_My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="60">
+</a>
 
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=falmiabdi&theme=github-dark&bg_color=0f0f23&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
+<br><br>
 
----
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<a href="https://github.com/falmiabdi?tab=followers">
+  <img src="https://img.shields.io/github/followers/falmiabdi?label=FOLLOW&style=for-the-badge&color=00ff88&logo=github" alt="Followers" height="45">
+</a>
+
+<a href="https://github.com/falmiabdi?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-0066CC?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" height="45">
+</a>
+
+<a href="https://github.com/falmiabdi?tab=stars">
+  <img src="https://img.shields.io/badge/STARRED_PROJECTS-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred" height="45">
+</a>
+
+</div>
+
+<br>
+
+### 📈 Recent Development Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=falmiabdi&theme=github-dark&bg_color=0f0f23&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -61,13 +77,17 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
@@ -77,52 +97,65 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<hr>
 
 ## 📁 Featured Projects
 
 ### 🎓 University Election System
-A web-based voting system for university elections with real-time results.
+A secure web-based voting system for university elections with real-time results, admin dashboard, and voter authentication.
 
-**Tech:** PHP, MySQL, JavaScript, Bootstrap
+**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap, Chart.js
 
 ### 🏢 Shop Management System
-Complete system for managing shop inventory, sales, and reports.
+Complete inventory management system with sales tracking, stock alerts, and financial reporting features.
 
-**Tech:** Python, Django, PostgreSQL, React
+**Tech Stack:** Python, Django, PostgreSQL, React, REST API
 
 ### 📱 Student Attendance Tracker
-Mobile-friendly attendance tracking system with analytics.
+Mobile application for tracking student attendance with facial recognition, GPS verification, and analytics dashboard.
 
-**Tech:** React Native, Node.js, MongoDB
+**Tech Stack:** React Native, Node.js, MongoDB, Express.js, JWT Authentication
 
-### 🌐 Personal Portfolio
-Modern responsive portfolio showcasing projects and skills.
+### 💼 Job Portal Application
+Full-stack job portal with features for job seekers and employers, resume parsing, and interview scheduling.
 
-**Tech:** HTML5, CSS3, JavaScript, Bootstrap
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux, Socket.io
 
----
+### 🏨 Hotel Booking & Payment System
+Online hotel reservation system with real-time availability, secure payment processing, and booking management.
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=falmiabdi&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+**Tech Stack:** TypeScript, React, Node.js, Stripe API, PostgreSQL, Tailwind CSS
 
----
+### 🌐 Personal Portfolio Website
+Modern responsive portfolio showcasing projects, skills, and achievements with interactive UI elements.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Vercel
+
+<hr>
+
+
+
+
+<hr>
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/falmi-tesfaye-51aa74306)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ethio_tech430)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.fb.com/l/6lp1kJRRR)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falmiabdi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eng-falmi-abdi-portfolio-2580.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/falmi-tesfaye-51aa74306)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mafwaf)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100070991113660)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felmiabdi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falmiabdi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eng-falmi-abdi-portfolio-2580.vercel.app)
 
----
+<hr>
 
 ## 📈 Weekly Development Breakdown
 
 ```text
-JavaScript   ████████████████████░░░░   80%
-Python       ██████████░░░░░░░░░░░░░░   40%
-PHP          ████████░░░░░░░░░░░░░░░░   32%
-HTML/CSS     █████████████░░░░░░░░░░░   60%
-SQL          █████████░░░░░░░░░░░░░░░   36%
+JavaScript/TypeScript   ████████████████████░░░░   85%
+Python/Django           ████████████░░░░░░░░░░░░░   50%
+PHP/Laravel             █████████░░░░░░░░░░░░░░░░   45%
+React/React Native      ████████████░░░░░░░░░░░░░   50%
+HTML/CSS/Tailwind       █████████████████░░░░░░░░   75%
+SQL/Databases           ████████████░░░░░░░░░░░░░   50%
+Node.js/Express         ██████████░░░░░░░░░░░░░░░   40%
