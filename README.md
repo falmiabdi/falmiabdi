@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Profile Header -->
-<img src="https://github.com/falmiabdi/my-image/blob/main/About%20me%20.png" 
+<img src="https://github.com/falmiabdi/my-image/generated-image (14).png" 
      alt="Falmi Tesfaye"
      width="200"
      height="200"
