@@ -1,18 +1,31 @@
 <!-- Complete GitHub Profile README -->
 <div align="center">
 
-<!-- Profile Header -->
-<img src="https://raw.githubusercontent.com/falmiabdi/my-image/main/generated-image%20(14).png" 
-     alt="Falmi Tesfaye"
-     width="200"
-     height="200"
-     style="border-radius: 50%; border: 4px solid #00ff88;">
+<div align="center">
 
-<!-- Name -->
-<h1>
-  <span style="color: #00ff88;">Falmi Tesfaye</span>
+<!-- Profile Header -->
+<img src="https://raw.githubusercontent.com/falmiabdi/my-image/main/generated-image%20(14).png" alt="Falmi Tesfaye" width="200" height="200" style="border-radius: 50%; border: 4px solid #00BFFF;">
+
+<h1 style="font-family: 'Arial Black', sans-serif;">
+  <span style="color: #00BFFF;">⚡ Falmi Tesfaye ⚡</span>
 </h1>
 
+<p>
+  <img src="https://img.shields.io/badge/🎓-Final_Year_Software_Engineering-blue?style=flat-square" alt="Student">
+  <img src="https://img.shields.io/badge/🏢-Intern_at_Debo_Engineering-green?style=flat-square" alt="Intern">
+  <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-orange?style=flat-square" alt="Developer">
+</p>
+
+<a href="https://eng-falmi-abdi-portfolio-2580.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐-Visit_My_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<hr>
+
+### 🚀 **Welcome to My GitHub Journey!**
+🏆 **On a mission to build scalable, impactful solutions!**
+
+</div>
 <!-- Current Status -->
 <p>
   <img src="https://img.shields.io/badge/🎓-Final_Year_Software_Engineering-blue?style=flat-square" alt="Student">
