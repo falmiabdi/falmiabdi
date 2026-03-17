@@ -10,15 +10,7 @@
   <span style="color: #00BFFF;">⚡ Falmi Tesfaye ⚡</span>
 </h1>
 
-<p>
-  <img src="https://img.shields.io/badge/🎓-Final_Year_Software_Engineering-blue?style=flat-square" alt="Student">
-  <img src="https://img.shields.io/badge/🏢-Intern_at_Debo_Engineering-green?style=flat-square" alt="Intern">
-  <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-orange?style=flat-square" alt="Developer">
-</p>
 
-<a href="https://eng-falmi-abdi-portfolio-2580.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐-Visit_My_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
 
 <hr>
 
@@ -33,12 +25,20 @@
   <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-orange?style=flat-square" alt="Developer">
 </p>
 
-<!-- Portfolio Link -->
-<p>
-  <a href="https://eng-falmi-abdi-portfolio-2580.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+<!-- Professional Portfolio Badge Section -->
+<div align="center">
+  
+  ### 🌟 Featured Project
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A4A4A)](https://eng-falmi-abdi-portfolio-2580.vercel.app)
+  
+  [![Portfolio Preview](https://img.shields.io/badge/🚀-View_Live_Demo-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4A4A4A)](https://eng-falmi-abdi-portfolio-2580.vercel.app)
+  
+  ---
+  
+  **✨ Built with React Native • Expo • Tailwind CSS ✨**
+  
+</div>
 
 <hr>
 
